@@ -6,9 +6,9 @@ SceneSetup.act1();
 
 (...300)
 
-n: AND THIS IS THE HUMAN'S ANXIETY
+n: JA SEE ON INIMESE ÄREVUS
 
-n: _YOU_ ARE THE ANXIETY
+n: _SA_ ON THE ÄREVUS
 
 {{if window.localStorage.continueChapter=="replay"}}
 (#act1_replay)
@@ -24,7 +24,7 @@ n: _YOU_ ARE THE ANXIETY
 
 `hong({mouth:"0_neutral", eyes:"0_neutral"})`
 
-h: Oh hey! We're back here again?
+h: Hei! Meie on back here again?
 
 `hong({eyes:"0_neutral"})`
 
