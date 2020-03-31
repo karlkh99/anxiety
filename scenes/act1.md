@@ -8,7 +8,7 @@ SceneSetup.act1();
 
 n: JA SEE ON INIMESE ÄREVUS
 
-n: _SA_ ON THE ÄREVUS
+n: _SA_ ON ÄREVUS
 
 {{if window.localStorage.continueChapter=="replay"}}
 (#act1_replay)
@@ -24,11 +24,11 @@ n: _SA_ ON THE ÄREVUS
 
 `hong({mouth:"0_neutral", eyes:"0_neutral"})`
 
-h: Hei! Meie on back here again?
+h: Hei! Oleme jälle siin?
 
 `hong({eyes:"0_neutral"})`
 
-n: YOUR JOB IS TO PROTECT YOUR HUMAN FROM *DANGER*
+n: SUL TÖÖ ON
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
