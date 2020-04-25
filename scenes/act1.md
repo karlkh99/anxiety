@@ -6,9 +6,9 @@ SceneSetup.act1();
 
 (...300)
 
-n: JA SEE ON INIMESE ÄREVUS
+n: JA SEE OLEB INIMESE ÄREVUS
 
-n: _SA_ ON ÄREVUS
+n: _SA_ OLEN ÄREVUS
 
 {{if window.localStorage.continueChapter=="replay"}}
 (#act1_replay)
@@ -186,16 +186,15 @@ bb({body:"squeeze"});
 
 `hong({mouth:"0_neutral", eyes:"0_annoyed"})`
 
-h: Oh good, my wolf's back. Faaaaantastic.
+h: Hurraa, mu hunt on tagasi. Suuuuurepärane.
 
 `hong({eyes:"0_neutral"})`
 
-n: YOUR JOB IS TO PROTECT YOUR HUMAN FROM *DANGER*
+n: SINU TÖÖ ON KAITSATA SINU INIMENE *OHTUDE* EEST
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: IN FACT, THAT SANDWICH IS PUTTING THEM IN *DANGER* RIGHT NOW
-
+n: TEGELIKULT, SEE VÖILEIB
 n: QUICK, WARN THEM!
 
 ```
